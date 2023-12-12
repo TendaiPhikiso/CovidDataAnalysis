@@ -25,3 +25,5 @@ This dashboard provides a comprehensive analysis of COVID-19 data on a global sc
 ![image](https://github.com/TendaiPhikiso/CovidDataAnalysis/assets/57633068/02d06f9e-5833-43f1-9601-96c57d7856a3)
 
 ###
+## Data Source
+The COVID-19 data used in this project is sourced from [Our World in Data](https://ourworldindata.org/covid-deaths), ensuring accuracy and reliability.
