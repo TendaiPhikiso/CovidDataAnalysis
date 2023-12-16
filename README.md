@@ -1,11 +1,13 @@
 # Covid Data Analysis
 
-## Data Exploration Stage 1
+![image](https://images.unsplash.com/photo-1584483766114-2cea6facdf57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+
+## (1) Data Exploration 
 ###
 The Covid data exploration file showcases a comprehensive data exploration on COVID-19, leveraging SQL queries to analyze global pandemic trends. The project involves cleaning, aggregating, and visualising data related to COVID-19 cases, deaths, population statistics, and vaccination progress.
 
-
-## Tableau Dashboard Stage 2
+## (2) Tableau Dashboard 
 This dashboard provides a comprehensive analysis of COVID-19 data on a global scale. The visualizations aim to offer insights into the spread of the virus, highlighting key metrics such as the number of cases, deaths, death percentage, and the impact on populations across countries and continents.
 
 
